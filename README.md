@@ -2,6 +2,9 @@
 
 A simple and intuitive To-Do List application built using **React**, **Vite**, and **Tailwind CSS**. This app helps you organize and manage your tasks efficiently.
 
+### UI
+![Screenshot 2024-09-30 003325](https://github.com/user-attachments/assets/23f3e3f8-7ce7-403b-aa9a-ba3aa2694294)
+
 ## Features
 
 - 📋 Add new tasks
